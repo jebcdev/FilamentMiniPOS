@@ -1,0 +1,15 @@
+ - Category => Done
+ - Product => Done
+ - Customer => Done
+
+ - Purchase  => Done
+ - PurchaseDetails  => Done
+
+ - Sale  => Done
+ - SaleDetails  => Done
+
+
+
+php artisan storage:link
+
+FILESYSTEM_DISK=public
